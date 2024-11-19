@@ -1,5 +1,5 @@
-title: My Jekyll Site
+title: Innove
 description: A simple Jekyll site
-theme: jekyll-theme-minimal
+remote_theme: mediumish-theme-jekyll
 url: https://www.innove.cloud
 baseurl: ""
