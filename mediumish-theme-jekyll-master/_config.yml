@@ -2,6 +2,7 @@
 name: "Innove"
 title: "Innove"
 description: "Exploring the power of generative AI"
+remote_theme: mediumish-theme-jekyll
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
