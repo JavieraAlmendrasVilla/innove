@@ -40,7 +40,10 @@ title: Home
 
     <div class="row listrecent">
 
-       {# {% for post in paginator.posts %}#}
+       {% comment %}
+        {% for post in paginator.posts %}
+        {% endcomment %}
+
         {% for post in site.posts %}
             {% include postbox.html %}
         {% endfor %}
