@@ -5,6 +5,8 @@ description: "Exploring the power of generative AI"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: /mediumish-theme-jekyll-master
+remote_theme: mediumish-theme-jekyll
+url: https://www.innove.cloud
 google_analytics: ''
 disqus: ''
 #mailchimp-list: ''
