@@ -39,8 +39,8 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-#paginate: 6
-#paginate_path: /page:num/
+paginate: 6
+paginate_path: /page:num/
     
 # Other
 markdown: kramdown
