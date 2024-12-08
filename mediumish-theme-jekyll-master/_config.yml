@@ -4,7 +4,7 @@ title: "Innove"
 description: "Exploring the power of generative AI"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: mediumish-theme-jekyll-master
+baseurl: ''
 google_analytics: ''
 disqus: ''
 #mailchimp-list: ''
