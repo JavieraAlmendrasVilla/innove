@@ -1,7 +1,7 @@
 {
   "name": "cookies-eu-banner",
   "main": "dist/cookies-eu-banner.js",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "homepage": "http://alex-d.github.io/Cookies-EU-banner/",
   "authors": [
     "Alex-D <contact@alex-d.fr>"
@@ -17,7 +17,18 @@
   "ignore": [
     "**/.*",
     "node_modules",
+    "bower_components",
     "docs",
     "src"
-  ]
+  ],
+  "_release": "2.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.0.1",
+    "commit": "52c26d1fdf5e15576837000eef5820885a8e433c"
+  },
+  "_source": "https://github.com/Alex-D/cookies-eu-banner.git",
+  "_target": "^2.0.1",
+  "_originalSource": "cookies-eu-banner",
+  "_direct": true
 }
