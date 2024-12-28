@@ -4,11 +4,11 @@
   "description": "Manage display of banner to accept/reject cookies from tracking services like Google Analytics",
   "version": "2.0.1",
   "main": "dist/cookies-eu-banner.js",
-  "homepage": "http://innove.cloud/",
+  "homepage": "http://alex-d.github.io/Cookies-EU-banner/",
   "author": {
-    "name": "innove",
-    "email": "innove.contact8@gmail.com",
-    "url": "http://innove.cloud"
+    "name": "Alex-D",
+    "email": "contact@alex-d.fr",
+    "url": "http://alex-d.fr"
   },
   "repository": {
     "type": "git",
