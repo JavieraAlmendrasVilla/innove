@@ -60,17 +60,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{layout}}">
-    <div id="cookies-eu-banner">
-        By continuing to visit this site, you accept the use of cookies by Google Analytics for statistical purposes.
-        <a href="./read-more.html" id="cookies-eu-more">Read more</a>
-        <button id="cookies-eu-reject">Reject</button>
-        <button id="cookies-eu-accept">Accept</button>
-    </div>
 <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NM8764SR"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-
 
 	<!-- defer loading of font and font awesome -->
 	<noscript id="deferred-styles">
@@ -82,9 +75,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!-- Begin Menu Navigation
 ================================================== -->
+
+
 <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
-
-
 
     <div class="container pr-0">
 
@@ -93,6 +86,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
     </a>
     <!-- End Logo -->
+    <div id="cookies-eu-banner">
+            By continuing to visit this site, you accept the use of cookies by Google Analytics for statistical purposes.
+            <a href="./read-more.html" id="cookies-eu-more">Read more</a>
+            <button id="cookies-eu-reject">Reject</button>
+            <button id="cookies-eu-accept">Accept</button>
+    </div>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -231,7 +230,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
 
-<script src="/_layouts/bower_components/cookies-eu-banner/dist/cookies-eu-banner.min.js"></script>
+<script src="{{ site.baseurl }}/cookies-eu-banner/dist/cookies-eu-banner.min.js"></script>
 <script>
     new CookiesEuBanner(function () {
         console.log("Cookie banner accepted, initializing Google Analytics...");
