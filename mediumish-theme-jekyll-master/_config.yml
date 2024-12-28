@@ -6,7 +6,7 @@ remote_theme: mediumish-theme-jekyll
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ""
-google_analytics: ''
+google_analytics: '4d3d377f-7bfa-4ef8-967b-1e9929748759'
 disqus: ''
 #mailchimp-list: ''
 include: ["_pages"]
