@@ -36,18 +36,19 @@
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{layout}}">
+    <div id="cookies-eu-banner" style="display: none;">
+    By continuing to visit this site, you accept the use of cookies by Google Analytics for statistical purposes.
+    <a href="./read-more.html" id="cookies-eu-more">Read more</a>
+    <button id="cookies-eu-reject">Reject</button>
+    <button id="cookies-eu-accept">Accept</button>
+    </div>
 	<!-- defer loading of font and font awesome -->
 	<noscript id="deferred-styles">
 		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 	</noscript>
 
-    <div id="cookies-eu-banner" style="display: none;">
-    By continuing to visit this site, you accept the use of cookies by Google Analytics for statistical purposes.
-    <a href="./read-more.html" id="cookies-eu-more">Read more</a>
-    <button id="cookies-eu-reject">Reject</button>
-    <button id="cookies-eu-accept">Accept</button>
-</div>
+
 
 <!-- Begin Menu Navigation
 ================================================== -->
