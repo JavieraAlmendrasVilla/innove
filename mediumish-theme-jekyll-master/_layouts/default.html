@@ -34,11 +34,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!-- change your GA ID in _config.yml -->
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-WW1QYDPLQX"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
 
+// Set default consent to 'denied' as a placeholder
+// Determine actual values based on your own requirements
+    gtag('consent', 'default', {
+      'ad_storage': 'denied',
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied',
+      'analytics_storage': 'denied'
+    });
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WW1QYDPLQX"></script>
+
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
   // Delay the actual tracking until user consent
   new CookiesEuBanner(function (accepted) {
       if (accepted) {
@@ -52,6 +65,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       rejectButton: true,
       acceptButton: true
   });
+</script>
+
+<!-- Create one update function for each consent parameter -->
+<script>
+  function consentGrantedAdStorage() {
+    gtag('consent', 'update', {
+      'ad_storage': 'granted'
+    });
+  }
 </script>
 
 
@@ -86,12 +108,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
     </a>
     <!-- End Logo -->
-    <div id="cookies-eu-banner">
+
+    <!-- Begin Cookie Banner -->
+    <!--<div id="cookies-eu-banner">
             By continuing to visit this site, you accept the use of cookies by Google Analytics for statistical purposes.
-            <a href="./read-more.html" id="cookies-eu-more">Read more</a>
+            <a href="https://www.google.com/about/company/user-consent-policy/" id="cookies-eu-more">Read more</a>
             <button id="cookies-eu-reject">Reject</button>
             <button id="cookies-eu-accept">Accept</button>
-    </div>
+    </div> -->
+    <!-- End Cookie Banner -->
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
