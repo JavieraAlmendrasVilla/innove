@@ -17,7 +17,8 @@ Starting January 8, 2025, Pixel 4A owners are receiving an automatic software up
 
 **Google's Response: Compensation Galore**
 
-But wait, there's more! Google isn't leaving its users hanging. For those affected, the company is offering a free battery swap, a $50 compensation, or a $100 credit towards a new Pixel phone. To check if your device is impacted, simply enter your IMEI number on Google's designated page. :contentReference[oaicite:1]{index=1}
+But wait, there's more! Google isn't leaving its users hanging. For those affected, the company is offering a free battery swap, a $50 compensation, or a $100 credit towards a new Pixel phone. To check if your device is impacted, simply enter your IMEI number on Google's designated page. [Google's new Pixel 4A update is going to lower battery life for some owners](https://www.theverge.com/2025/1/7/24338566/google-pixel-4a-battery-stability-replacement-reduced-capacity)
+
 
 **Comparisons to 'Batterygate'**
 
@@ -25,7 +26,8 @@ This situation is reminiscent of Apple's 2017 "batterygate" issue, where iPhones
 
 **The Bigger Picture: January Pixel Update**
 
-Beyond the battery saga, the January Pixel update also includes security patches and bug fixes. It addresses 26 security issues from the January 1 update and 12 from the January 5 update, ranging from high to critical severity. Additionally, there are fixes for audio delays, camera stability, and display issues. :contentReference[oaicite:2]{index=2}
+Beyond the battery saga, the January Pixel update also includes security patches and bug fixes. It addresses 26 security issues from the January 1 update and 12 from the January 5 update, ranging from high to critical severity. Additionally, there are fixes for audio delays, camera stability, and display issues.  [January Pixel update arrives carrying security patches and bug fixes](https://www.phonearena.com/news/pixel-update-bug-fixes-security-patches_id166405)
+
 
 **Conclusion: Stay Informed, Stay Fabulous**
 
