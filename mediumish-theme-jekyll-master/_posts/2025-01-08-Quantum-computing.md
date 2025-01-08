@@ -19,7 +19,7 @@ Just a hot minute ago, our tech darlings like IonQ, Rigetti Computing, D-Wave Qu
 
 **The Reality Check:**
 
-Enter Jensen Huang, the CEO of Nvidia, serving some cold, hard truth at the CES tech conference. He spilled the beans that "very useful" quantum computers might still be 15 to 30 years away. Talk about a buzzkill! :contentReference[oaicite:0]{index=0}
+Enter Jensen Huang, the CEO of Nvidia, serving some cold, hard truth at the CES tech conference. He spilled the beans that "very useful" quantum computers might still be 15 to 30 years away. Talk about a buzzkill! [MarketWatch](https://www.marketwatch.com/story/quantum-computing-stocks-sink-as-nvidia-ceo-delivers-a-reality-check-7fbdf443)
 
 **The Market's Meltdown:**
 
@@ -45,27 +45,18 @@ So, what's the lesson here, lovelies? While quantum computing is the hot new tre
 
 *Sources:*
 
-- [Quantum-computing stocks sink as Nvidia CEO delivers a reality check](https://www.marketwatch.com/story/quantum-computing-stocks-sink-as-nvidia-ceo-delivers-a-reality-check-7fbdf443)
+- [Quantum-computing stocks sink as Nvidia CEO delivers a reality check](https://www.marketwatch.com/story/quantum-computing-stocks-sink-as-nvidia-ceo-delivers-a-reality-check-7fbdf443) - MarketWatch  
+- [Quantum computing stocks take a hit as Nvidia CEO predicts long road ahead](https://www.reuters.com/technology/quantum-computing-stocks-take-hit-nvidia-ceo-predicts-long-road-ahead-2025-01-08/) - Reuters  
+- [Quantum Computing Stocks Dive After Nvidia CEO Says Tech 15-30 Years Away](https://www.investors.com/news/technology/quantum-computing-stocks-dive-after-nvidia-ceo-says-tech-15-30-years-away/) - Investor's Business Daily  
+- [Quantum computing stocks plunge after Nvidia CEO comments](https://finance.yahoo.com/video/quantum-computing-stocks-plunge-nvidia-144641973.html) - Yahoo Finance  
+- [Quantum Stocks Drop as Nvidia CEO Sees Use Years Away](https://finance.yahoo.com/news/quantum-computing-stocks-drop-nvidia-005300972.html) - Yahoo Finance  
+- [Quantum Stocks Fall After Nvidia's Huang Says the Tech Is Still 20 Years Away](https://markets.businessinsider.com/news/stocks/quantum-computing-stocks-jensen-huang-nvidia-ces-rigetti-2025-1) - Business Insider  
+- [These Stocks Are Moving the Most Today: Nvidia, AMD, Palantir, Quantum Computing, eBay, Vir, Edison International, and More](https://www.barrons.com/articles/stock-market-movers-23b2ea34) - Barron's  
+- [Stock Market Today: Dow Jones Trims Losses Ahead Of Fed Minutes; Nvidia Tests Key Level (Live Coverage)](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-stock-ai/) - Investor's Business Daily  
+- [Google parent Alphabet's shares surge after quantum computing breakthrough](https://nypost.com/2024/12/10/business/alphabet-shares-surge-on-quantum-computing-breakthrough-willow/) - New York Post
 
-- [Quantum computing stocks take a hit as Nvidia CEO predicts long road ahead](https://www.reuters.com/technology/quantum-computing-stocks-take-hit-nvidia-ceo-predicts-long-road-ahead-2025-01-08/)
-
-- [Quantum Computing Stocks Dive After Nvidia CEO Says Tech 15-30 Years Away](https://www.investors.com/news/technology/quantum-computing-stocks-dive-after-nvidia-ceo-says-tech-15-30-years-away/)
-
-- [Quantum computing stocks plunge after Nvidia CEO comments](https://finance.yahoo.com/video/quantum-computing-stocks-plunge-nvidia-144641973.html)
-
-- [Quantum Stocks Drop as Nvidia CEO Sees Use Years Away](https://finance.yahoo.com/news/quantum-computing-stocks-drop-nvidia-005300972.html)
-
-- [Quantum Stocks Fall After Nvidia's Huang Says the Tech Is Still 20 Years Away](https://markets.businessinsider.com/news/stocks/quantum-computing-stocks-jensen-huang-nvidia-ces-rigetti-2025-1)
-
-- [These Stocks Are Moving the Most Today: Nvidia, AMD, Palantir, Quantum Computing, eBay, Vir, Edison International, and More](https://www.barrons.com/articles/stock-market-movers-23b2ea34)
-
-- [Stock Market Today: Dow Jones Trims Losses Ahead Of Fed Minutes; Nvidia Tests Key Level (Live Coverage)](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-stock-ai/)
-
-- [Google parent Alphabet's shares surge after quantum computing breakthrough](https://nypost.com/2024/12/10/business/alphabet-shares-surge-on-quantum-computing-breakthrough-willow/)
-
-
-
---- 
+---  
 Post: created by ChatGPT
 
 Image: created by Adobe Firefly
+
