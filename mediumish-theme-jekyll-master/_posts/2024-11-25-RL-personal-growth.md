@@ -4,7 +4,7 @@ title: "Unlocking Fulfillment: The Science of Exploring Your True Self"
 author: innove
 categories: [ Personal Growth, Psychology ]
 image: assets/images/1.jpg
-featured: true
+featured: false
 hidden: false
 ---
 
