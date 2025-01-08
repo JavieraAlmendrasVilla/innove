@@ -13,7 +13,8 @@ Hey there, tech enthusiasts! Google's January Pixel update has arrived, and it's
 
 **The Plot Twist: Battery Life Drama**
 
-Starting January 8, 2025, Pixel 4A owners are receiving an automatic software update to Android 13. While this update aims to enhance battery performance stability, it might just be the plot twist we didn't see coming. Some devices—referred to as "Impacted Devices"—could experience reduced battery life and charging performance. Users might notice shorter battery life between charges and altered battery level indicators. :contentReference[oaicite:0]{index=0}
+Starting January 8, 2025, Pixel 4A owners are receiving an automatic software update to Android 13. While this update aims to enhance battery performance stability, it might just be the plot twist we didn't see coming. Some devices—referred to as "Impacted Devices"—could experience reduced battery life and charging performance. Users might notice shorter battery life between charges and altered battery level indicators. [Google's new Pixel 4A update is going to lower battery life for some owners](https://www.theverge.com/2025/1/7/24338566/google-pixel-4a-battery-stability-replacement-reduced-capacity)
+
 
 **Google's Response: Compensation Galore**
 
