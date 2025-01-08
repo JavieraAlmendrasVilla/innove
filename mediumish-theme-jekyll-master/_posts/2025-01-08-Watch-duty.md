@@ -2,7 +2,7 @@
 title: "Watch Duty: Your Sassy Sidekick in the Wildfire World"
 date: 2025-01-08
 author: innove
-image: assets/images/watch-duty.jpg
+image: assets/images/watch_duty.jpg
 featured: true
 hidden: false
 categories: [Wildfires, Technology, Safety]
