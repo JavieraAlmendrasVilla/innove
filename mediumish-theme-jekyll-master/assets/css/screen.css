@@ -147,6 +147,11 @@ section.recent-posts {
     line-height: 1.25;
 }
 
+.listfeaturedtag h2.card-title a,
+.listrecent h2.card-title a {
+    color: #343A40;
+    text-decoration: none;
+}
 .listfeaturedtag h4.card-text,
 .listrecent h4.card-text {
     color: rgba(0, 0, 0, .44);
